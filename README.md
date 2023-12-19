@@ -10,7 +10,7 @@ A classic Simon game implementation that is now mobile-responsive! This project 
 
 ## Demo
 
-See the game in action [here](#) [Add a live demo link when you have one].
+See the game in action [here](https://amceetech-dev.github.io/Simon-Game/).
 
 ## How to Play
 
