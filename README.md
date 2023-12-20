@@ -29,4 +29,4 @@ See the game in action [here](https://amceetech-dev.github.io/Simon-Game/).
 
 - Original concept and implementation by Angela Yu in the [Complete Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) on Udemy.
 
-- Responsive enhancements by Nwofor Prince.
+- Enhanced by Nwofor Prince.
